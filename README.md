@@ -19,9 +19,6 @@ Este repositório contém um projeto de exemplo que implementa OpenTelemetry com
 
    ![alt text](image-2.png)
 
-   ![alt text](image-3.png)
-
 3. **Dashboard do SigNoz:**
-   - Após configurar e iniciar o SigNoz, capture um print do dashboard mostrando os dados coletados.
-
-   ![Dashboard do SigNoz](caminho/para/seu/print_sig_noz.png)
+  
+   ![alt text](image-3.png)
