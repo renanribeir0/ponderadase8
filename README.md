@@ -1,5 +1,3 @@
-Este repositório contém um projeto de exemplo que implementa OpenTelemetry com SigNoz em uma aplicação Go utilizando o framework Gin.
-
 ## Como Executar
 
 1. Clone o repositório:
